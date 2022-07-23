@@ -1,3 +1,4 @@
+/*RNG.cpp by FURRO404*/
 #include <iostream>
 using namespace std;
   
@@ -24,3 +25,4 @@ int main()
 
     return 0;
 }
+/*RNG.cpp by FURRO404*/
